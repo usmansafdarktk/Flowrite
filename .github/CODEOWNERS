@@ -1,0 +1,6 @@
+# This is a CODEOWNERS file
+# It defines who owns which parts of the codebase.
+# Syntax: pattern owner
+
+# Set default owner for everything in the repo
+* @usmansafdarktk
